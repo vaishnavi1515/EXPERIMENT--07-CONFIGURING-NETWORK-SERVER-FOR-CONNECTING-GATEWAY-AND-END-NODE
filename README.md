@@ -1,5 +1,4 @@
 ### EXPERIMENT -07 CONFIGURING NETWORK SERVER FOR CONNECTING GATEWAY AND END NODE 
- 
 ## Aim: 
 To  configure the Network server and end device for transferring data on the network
 ## Components required: 
@@ -56,6 +55,9 @@ To set APP Key
 
 
 ## OUTPUT 
+
+<img width="1631" height="980" alt="image" src="https://github.com/user-attachments/assets/62e5167d-8e5c-47fc-838c-95d4ea78c942" />
+
 
 
 ## Result: 
